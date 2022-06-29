@@ -1,7 +1,7 @@
 #container {
   position: relative;
   max-width: 300px;
-  background-color: aliceblue;
+  background-color: rgb(220, 225, 230);
   margin: auto;
   padding: 20px;
   border-radius: 10px;
