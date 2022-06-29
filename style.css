@@ -7,3 +7,28 @@
   border-radius: 10px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+h1 {
+  margin-top: 0px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+input {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  padding: 5px;
+}
+
+button {
+  padding: 7px;
+  border-radius: 3px;
+  display: block;
+  position: relative;
+  width: 80px;
+  margin: auto;
+  margin-top: 10px;
+}
