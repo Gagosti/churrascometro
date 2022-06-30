@@ -32,3 +32,27 @@ button {
   margin: auto;
   margin-top: 10px;
 }
+
+.cerv {
+  height: 70px;
+  width: 70px;
+  opacity: 0.8;
+}
+
+.lin {
+  height: 70px;
+  width: 70px;
+  opacity: 0.8;
+}
+
+.refri {
+  height: 70px;
+  width: 70px;
+  opacity: 0.8;
+}
+
+.t-b {
+  height: 70px;
+  width: 70px;
+  opacity: 0.8;
+}
