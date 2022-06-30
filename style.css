@@ -1,4 +1,4 @@
-#container {
+#container-churrascometro {
   position: relative;
   max-width: 300px;
   background-color: rgb(220, 225, 230);
@@ -14,7 +14,7 @@ h1 {
   text-align: center;
 }
 
-input {
+.input-churrascometro {
   box-sizing: border-box;
   display: block;
   width: 100%;
@@ -23,7 +23,7 @@ input {
   padding: 5px;
 }
 
-button {
+.button-churrascometro {
   padding: 7px;
   border-radius: 3px;
   display: block;
